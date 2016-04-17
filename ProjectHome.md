@@ -1,0 +1,1 @@
+This is a simple code sample for the arduino microcontroller system. It allows the use of the stepper motor (specifically the one sold at sparkfun.com) and the easy driver v3 which is also sold at sparkfun.com. The code allows full position control of the motor as well as direction and full speed control.
